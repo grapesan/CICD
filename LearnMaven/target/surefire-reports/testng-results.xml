@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestNgMavenExampleSuite" duration-ms="31" started-at="2016-11-17T07:05:51Z" finished-at="2016-11-17T07:05:51Z">
+    <groups>
+      <group name="Example">
+        <method signature="TestCode.exampleOfTestNgMaven1()[pri:0, instance:com.cybage.test.TestCode@26ba2a48]" name="exampleOfTestNgMaven1" class="com.cybage.test.TestCode"/>
+        <method signature="TestCode.exampleOfTestNgMaven2()[pri:0, instance:com.cybage.test.TestCode@26ba2a48]" name="exampleOfTestNgMaven2" class="com.cybage.test.TestCode"/>
+      </group> <!-- Example -->
+    </groups>
+    <test name="TestNgMavenTest1" duration-ms="31" started-at="2016-11-17T07:05:51Z" finished-at="2016-11-17T07:05:51Z">
+      <class name="com.cybage.test.TestCode">
+        <test-method status="PASS" signature="beforeTestsuite()[pri:0, instance:com.cybage.test.TestCode@26ba2a48]" name="beforeTestsuite" is-config="true" duration-ms="16" started-at="2016-11-17T12:35:51Z" finished-at="2016-11-17T12:35:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestsuite -->
+        <test-method status="PASS" signature="beforeExampleTest()[pri:0, instance:com.cybage.test.TestCode@26ba2a48]" name="beforeExampleTest" is-config="true" duration-ms="0" started-at="2016-11-17T12:35:51Z" finished-at="2016-11-17T12:35:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeExampleTest -->
+        <test-method status="PASS" signature="beforeGroup()[pri:0, instance:com.cybage.test.TestCode@26ba2a48]" name="beforeGroup" is-config="true" duration-ms="0" started-at="2016-11-17T12:35:51Z" finished-at="2016-11-17T12:35:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeGroup -->
+        <test-method status="PASS" signature="beforeExampleMethod()[pri:0, instance:com.cybage.test.TestCode@26ba2a48]" name="beforeExampleMethod" is-config="true" duration-ms="0" started-at="2016-11-17T12:35:51Z" finished-at="2016-11-17T12:35:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeExampleMethod -->
+        <test-method status="PASS" signature="exampleOfTestNgMaven1()[pri:0, instance:com.cybage.test.TestCode@26ba2a48]" name="exampleOfTestNgMaven1" duration-ms="0" started-at="2016-11-17T12:35:51Z" finished-at="2016-11-17T12:35:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exampleOfTestNgMaven1 -->
+        <test-method status="PASS" signature="beforeClassExample()[pri:0, instance:com.cybage.test.TestCode@26ba2a48]" name="beforeClassExample" is-config="true" duration-ms="0" started-at="2016-11-17T12:35:51Z" finished-at="2016-11-17T12:35:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClassExample -->
+        <test-method status="PASS" signature="beforeExampleMethod()[pri:0, instance:com.cybage.test.TestCode@26ba2a48]" name="beforeExampleMethod" is-config="true" duration-ms="0" started-at="2016-11-17T12:35:51Z" finished-at="2016-11-17T12:35:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeExampleMethod -->
+        <test-method status="PASS" signature="afterClassExample()[pri:0, instance:com.cybage.test.TestCode@26ba2a48]" name="afterClassExample" is-config="true" duration-ms="0" started-at="2016-11-17T12:35:51Z" finished-at="2016-11-17T12:35:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassExample -->
+        <test-method status="PASS" signature="exampleOfTestNgMaven2()[pri:0, instance:com.cybage.test.TestCode@26ba2a48]" name="exampleOfTestNgMaven2" duration-ms="0" started-at="2016-11-17T12:35:51Z" finished-at="2016-11-17T12:35:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exampleOfTestNgMaven2 -->
+        <test-method status="PASS" signature="afterExmapleTest()[pri:0, instance:com.cybage.test.TestCode@26ba2a48]" name="afterExmapleTest" is-config="true" duration-ms="0" started-at="2016-11-17T12:35:51Z" finished-at="2016-11-17T12:35:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterExmapleTest -->
+        <test-method status="PASS" signature="afterExampleMethod()[pri:0, instance:com.cybage.test.TestCode@26ba2a48]" name="afterExampleMethod" is-config="true" duration-ms="0" started-at="2016-11-17T12:35:51Z" finished-at="2016-11-17T12:35:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterExampleMethod -->
+        <test-method status="PASS" signature="afterGroups()[pri:0, instance:com.cybage.test.TestCode@26ba2a48]" name="afterGroups" is-config="true" duration-ms="0" started-at="2016-11-17T12:35:51Z" finished-at="2016-11-17T12:35:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterGroups -->
+        <test-method status="PASS" signature="afterExampleMethod()[pri:0, instance:com.cybage.test.TestCode@26ba2a48]" name="afterExampleMethod" is-config="true" duration-ms="0" started-at="2016-11-17T12:35:51Z" finished-at="2016-11-17T12:35:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterExampleMethod -->
+        <test-method status="PASS" signature="afterTestSuite()[pri:0, instance:com.cybage.test.TestCode@26ba2a48]" name="afterTestSuite" is-config="true" duration-ms="0" started-at="2016-11-17T12:35:51Z" finished-at="2016-11-17T12:35:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestSuite -->
+      </class> <!-- com.cybage.test.TestCode -->
+    </test> <!-- TestNgMavenTest1 -->
+  </suite> <!-- TestNgMavenExampleSuite -->
+</testng-results>
